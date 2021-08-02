@@ -1,7 +1,7 @@
 ## Olá, sou a Yasmin Sarinho!
 
-
 🎠Sou inciante na programação.
+
 🎡Estou aprendendo python atualmente.
 
 
