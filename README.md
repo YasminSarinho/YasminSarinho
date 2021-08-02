@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @YasminSarinho
-- 👀 I’m interested in programation and software Engineering.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on i dont know.
-- 📫 How to reach me in email: yasminsariinho@gmail.com
+## Olá, sou a Yasmin Sarinho!
 
-<!---
-YasminSarinho/YasminSarinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🎠Sou inciante na programação.
+🎡Estou aprendendo python atualmente.
+
+
+ <div>
+  <a href="https://github.com/YasminSarinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminSarinho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminSarinho&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
