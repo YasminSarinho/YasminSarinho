@@ -4,6 +4,7 @@
 
 🎡Atualmente estou aprendendo python.
 
+🍡 User name discord > Yasmin Sarinho#0001
 
 
  <div>
@@ -13,3 +14,8 @@
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div>
+<div style="display: inline_block"><br>
+<a href="https://instagram.com/yasminsarinho" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+</div>
