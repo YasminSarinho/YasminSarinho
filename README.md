@@ -1,8 +1,8 @@
 ## Olá!
 
-🎠Sou inciante na programação.
+🎠 Sou iniciante na programação.
 
-🎡Atualmente estou aprendendo python.
+🎡 Atualmente estou aprendendo python.
 
 ##
 
@@ -12,9 +12,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=YasminSarinho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminSarinho&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <div style="display:inline_block"  align="center"><br>
+    <img alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <div/>
+   
 ##
    
 <div>
